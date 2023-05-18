@@ -1,0 +1,23 @@
+{
+  "author": "chenglu4343",
+  "bugs": {
+    "url": "https://github.com/chenglu4343/simple-global-scrollbar/issues"
+  },
+  "description": "simple global config scrollbar style",
+  "files": [
+    "scrollbar.css",
+    "LICENSE"
+  ],
+  "homepage": "https://github.com/chenglu4343/simple-global-scrollbar#readme",
+  "keywords": [
+    "scrollbar.css"
+  ],
+  "license": "MIT",
+  "main": "scrollbar.css",
+  "name": "simple-global-scrollbar",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenglu4343/simple-global-scrollbar.git"
+  },
+  "version": "0.0.1"
+}
