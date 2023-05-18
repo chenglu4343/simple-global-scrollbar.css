@@ -14,7 +14,7 @@
   ],
   "license": "MIT",
   "main": "scrollbar.css",
-  "name": "simple-global-scrollbar",
+  "name": "simple-global-scrollbar.css",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/chenglu4343/simple-global-scrollbar.git"
