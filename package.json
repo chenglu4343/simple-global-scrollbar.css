@@ -24,7 +24,7 @@
     "bump:minor": "npx bumpp minor --all --yes",
     "bump:patch": "npx bumpp patch --all --yes"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "devDependencies": {
     "bumpp": "^9.1.0"
   }
