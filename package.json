@@ -19,5 +19,13 @@
     "type": "git",
     "url": "git+https://github.com/chenglu4343/simple-global-scrollbar.git"
   },
-  "version": "0.0.1"
+  "scripts": {
+    "bump:major": "npx bumpp major --all --yes",
+    "bump:minor": "npx bumpp minor --all --yes",
+    "bump:patch": "npx bumpp patch --all --yes"
+  },
+  "version": "0.0.1",
+  "devDependencies": {
+    "bumpp": "^9.1.0"
+  }
 }
