@@ -1,4 +1,7 @@
-# simple-global-scrollbar
+# usage
+```bash
+npm install simple-global-scrollbar.css
+```
 
 # Configure the scrollbar style
 ```css
